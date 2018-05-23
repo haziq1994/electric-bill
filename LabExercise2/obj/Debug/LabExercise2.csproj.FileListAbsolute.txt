@@ -1,0 +1,56 @@
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\User\Documents\Visual Studio 2017\AdvanceProgramming\LabExercise2\LabExercise2\obj\Debug\LabExercise2.pdb
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\MY\Desktop\LabExercise2\LabExercise2\obj\Debug\LabExercise2.pdb
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\FAIZAL YUSOFF\Desktop\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.pdb
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\FAIZAL YUSOFF\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.pdb
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.CoreCompileInputs.cache
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\faiza\OneDrive\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.pdb
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe.config
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.exe
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\bin\Debug\LabExercise2.pdb
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Form1.resources
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.Properties.Resources.resources
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.GenerateResource.Cache
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.exe
+C:\Users\faiza\Desktop\Bachelor\Sem 5\ISB42603 - ADVANCED PROGRAMMING\Assignment1(Adv. Prog.)\Assignment1 Fazrul&Faizal\LabExercise2\obj\Debug\LabExercise2.pdb
